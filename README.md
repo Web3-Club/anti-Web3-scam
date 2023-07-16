@@ -3,7 +3,7 @@ Web3反诈手册 欢迎有经历过的朋友为本项目提供PR
 
 本项目旨在提供有关反诈骗的Web3技术和实践指南，以帮助用户更好地保护自己的数字资产和隐私。
 
-# Disclaimer
+## Disclaimer
 
 This project aims to provide information and practical guidelines on anti-scam Web3 technologies to help users better protect their digital assets and privacy. However, please note the following:
 
